@@ -180,8 +180,8 @@ Installation
 Download the source
 -------------------
 
-Comple the code
----------------
+Compile the code
+----------------
 
 Configuration
 =============
